@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621952921255",
+    "project_id": "katakita-db",
+    "storage_bucket": "katakita-db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621952921255:android:0a1afbcb1354342a79f582",
+        "android_client_info": {
+          "package_name": "com.example.katakita_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu0ZLihwt4rhsGgrEuKZMFmzBBplv8zjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
